@@ -1,0 +1,41 @@
+
+
+#counter-box {
+    text-align: center;
+    border: 2px solid black;
+    background-color: greenyellow;
+    border-radius: 5px;
+    box-shadow: 0px 5px grey;
+    width: 20%;
+    height: 25%;
+
+}
+
+.counterHeader {
+    border-bottom: 2px solid black;
+    padding-bottom: 10px;
+}
+
+.number-counter {
+    border-bottom: 2px solid black;
+    margin-bottom: 10px;
+}
+
+.btn-add {
+    color: black;
+    font-size: 20px;
+    background-color: rgb(69, 233, 19);
+    padding-left: 10px;
+    padding-right: 10px;
+    border: none;
+    box-shadow: 0px 2px grey;
+    border-radius: 2px;
+    outline: 0px;
+}
+
+.btn-add:active {
+    transform: translateY(2px);
+    background-color: rgb(62, 184, 25);
+    
+}
+
